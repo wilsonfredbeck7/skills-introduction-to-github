@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wilson Fredbeck
 
 ![Path to an image](happiness.jpg)
